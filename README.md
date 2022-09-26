@@ -5,7 +5,7 @@ Willing to be a Game Developer.
 **Click Me ! :computer_mouse:**　
 
 <a href="https://github.com/syoo5953/Unity_Games">
-**Link -> ** <img alt="Sungkk Yoo|Game Repo Link" width="25px" src="https://cdn.icon-icons.com/icons2/2348/PNG/512/link_icon_142996.png" /></a>
+<img alt="Sungkk Yoo|Game Repo Link" width="25px" src="https://cdn.icon-icons.com/icons2/2348/PNG/512/link_icon_142996.png" /></a>
 
 <br />
 
