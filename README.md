@@ -9,6 +9,7 @@ Willing to be a Game Developer.
 
 <br />
 
+
 ※ ***If you don't indicate your exact identity and business, I won't reply.***
 
 ## Bachelor Degrees :mortar_board:
