@@ -21,6 +21,13 @@ Willing to be a Game Developer.
 - **FRONT-End** - HTML/JS/React/Nexacro 17.1/RPA(POWER AUTOMATE)
 - **Back-End**  - Java(Spring)/JSP/NodeJS/MSSQL/Nexacro 17.1/RPA(POWER AUTOMATE)
 
+## Stack
+- **Main Programming Languages** - JAVA/C#/C++
+- RPA (Microsoft Power Platform)
+- MSSQL (DBeaver/SSMS)
+- Web(JS/JSP/XML/Node-Express/ReactJS/Spring MVC/Mybatis)
+- Deploy(Resin/Jenkins/SVN/github)
+
 <br />
 
 ## Activities
