@@ -18,7 +18,8 @@ Willing to be a Game Developer.
 
 ## Work Experience
 **2022.01.17 ~ NOW**
-- **Back-End Developer** - Java(Spring)/MSSQL/Nexacro 17.1/ReactJS/RPA(POWER AUTOMATE)
+- **FRONT-End** - HTML/JS/React/Nexacro 17.1/RPA(POWER AUTOMATE)
+- **Back-End**  - Java(Spring)/JSP/NodeJS/MSSQL/Nexacro 17.1/RPA(POWER AUTOMATE)
 
 <br />
 
