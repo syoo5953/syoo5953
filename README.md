@@ -27,6 +27,8 @@ Willing to be a Game Developer.
 - MSSQL (DBeaver/SSMS)
 - Web(JS/JSP/XML/Node-Express/ReactJS/Spring MVC/Mybatis)
 - Deploy(Resin/Jenkins/SVN/github)
+- Nexacro Platform
+- Version Control Systems - SVN/Github
 
 <br />
 
