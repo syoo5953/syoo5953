@@ -23,7 +23,7 @@ Willing to be a Game Developer.
 
 ## Stack
 - **Main Programming Languages** - JAVA/C#/C++
-- Unity - Interests in Shader/In-game environment optimizations
+- Unity(Have large interests in Shader and In-game environment optimizations)
 - RPA (Microsoft Power Platform)
 - MSSQL (DBeaver/SSMS)
 - Web(JS/JSP/XML/Node-Express/ReactJS/Spring MVC/Mybatis)
